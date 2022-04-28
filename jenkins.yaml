@@ -1,0 +1,143 @@
+credentials:
+  system:
+    domainCredentials:
+    - credentials:
+      - basicSSHUserPrivateKey:
+          description: "jenkins credentials for ssh connection with slave agents"
+          id: "622f198e-c5f5-4bd2-a8d7-d81fed98e56e"
+          privateKeySource:
+            directEntry:
+              privateKey: "{AQAAABAAAAowsFMMByKIdah5E36G46EF1kC/oAHBtbyGc+EEm0dpSxUfITc4g1h1j7RQeO7gRVkhbHN/uodXlk4vjr0CHecThw5qRo1jkJu9SZ0yMfzDEVCTS5bKNwXmw+Wtfhr4frQS6vOFLZTz9XU6Grh7fxKxIyCnmbUbTBgw65sZAGn9HxuhwPlK9tuj+32A5kWoHrnwL+52KBxf4+7Ghg6qYo0NKWqrI4G1xhbOnFlhw5d428Xr1DOm/s+naFXeb1Be7SVcEZ/tqDV0aPjpeg2uns/HfmblpgUzI+Cb2gViD82ZG7jZwtXhz6zdfRKAdWCfbM94SxirFStQ4s3XoTYsCw0GOgYG/WDfpP9YDQp0kIyT1jThAxMFO1R1ONSxYrnld64IsMZaeHajjNCglBi5TrdI8ZXU2GxTMqD0y5aiB22oo9sorReSoK+OqzrA7la+hZ+RywMYhem8orTXgL6Rt+n2hNTkiJ51xKoxHyXitVs+RqOeVV/uflvXW2Bufr1vFWcYoSXb4iuYg7wIwfUPTeXEiAL0tRYFDGBI8tEEQv2jYT4WE/OP6iVwUoWLs1NgGiB1VpwuiaObwXcajXuKsH4VwPU7baIz2jbIZIyZGfZfYxAYHyF04BT2i55lCd94QWS94oPV1fmUYi8G5I+OIqggP/qC2J5gCG+daN4nTK9HiIcGfUYy0UPynRyVfvrnF7alvGbHo2XcsAvkGEC/i4r3Iys7z9dBhE3eOyhIolCWjvEV4izJ1NqsfnqwJSHtAQ3Swzy4IuofF73Swqo16MYzrA7jxwk4YmBbWV0snnx8YknDS5lpRIr5iFfJqFmq37S8yKp071qLBauWuXncnRcSPpjydLzMlWZmLJNDFjFuxUcvzNbT4ELHeAWIwX5+lcntBvWON3BfffILRGQtWUOGWnSKibBOmFIvz/8F2nGSTwZ9p4LlNHjv98DeiP11ytvR5uV10Xu6iJdc6oNAiCFZ+yZ9RBYtv93KMEVTEkW4cMTMBmbpZTBFAJB0LxPhuKgz/cTJPQGMShU2etf6L5FETXWvL8k5UcxAs9yI8wZIHxs7TRqgLXFW+6fPEk+ueTy7r6MsEZHaAkI1grSaCOTWLB+D6G3TF61Jaxk+Yq/SX7+QhRg9dg+XXi6Le1g63tMlhUurSa6yFVMqPIrMcA5TEdgL4wARTHvL8KiwBjcstDFG+0alzdZMApDGn82/wJpkfvuVnX9vxYeVcebkna20ShhB7lzgmuIDetPpNATeOqIaLL1V72/+73IpXOBF4xfDmDz1Zwljc+f9rZoZeGwQMDJo09vWqi7GDCa1TZ3fKwW0Q3QyNvEG4Y4ptvTYC346lT+GmwKprHiut5kXrW9l71OiDaWkXPQzpBiixBAf+SdJDifIwa5Z40n5CpkFlC4w68W6U79q9UxRxIDhCVS+CzlI5GwkfA2ldXWxfKn07rYl5LzQ73EtVS/5FI66vFXuKw3NouVOWalx2xqefVVGdi3PIC+foNeJGJEGN+ig8MPxsWXn6/Jsl/GvhYRB2cBsxPRxHRVfmD7WcsVUhGwwm1trORdda7KoWjrPuAQxqk9N9fxFunGt/yIl/EzaD6oWwsbpevKmYK+xeZiBn5qriZRKRE873HYwLTFCWlxQK1npv3MGTG+F9WM1ocwPGnYYM8tOUnEymS19bEXjwiqqNKE1HhDnDNvTGf/jltwFC3mjcucbmxI+G23i6HJOzgk31fVYDg/kqZcVB9r1Watws7B1KyIesfeRWGQPc1lusA2aVCIErJUV+YYTfIsFF9ubGJEykmNoLfyMneocaOyL/zR05UyYKZYhvhDtJ2EGoy/gtb0nS7kEoRqqW/glfn74IRSCoaJOlSP55fgE+p07tx9qjT9Wb1b7/NxqLGL/TKW8f8PXGqkzjIgjk5++4SkcZqZoKeSqLAZTdIvbP6q73fe/pt6AAPUVaYWBbxlFINxz+6x6Exe8R8vi/yp/yzHBPeQ019mTbIaHIn2S7jesgO25UEl7L1yzSc59k2k2xdwNFY/XHjovjiG8YhLg9b9n1YK8CeDSlqjdZzcfzDrXoLDIDJayUzl46azdjyED25SGxtVVtT8xbKJqNgPUukrm6bSFFP+UUAmXv9yfVQ7CiIPWyIztjSBP7p24aLuzdbMLxiydheXPsRVOZ3bcUpQYTvticWomt+iDFxu4mg7Wof4sKJ8qdNAcsVa5TSHN7kIyT9zFaDL+JZA4V+EtgKcxntpx/DqozrYeZa2bU5x12KI4b/UEd+jNJEGE+uu+udsS/ym8ueX7Kq7txpHyZN01cXvffU+4w16GKD11O1LbUACDfsJGwq9Am+LbLc9j1umdoREi1UqdOezAqSVa++j+aSzoXBhN7R2jKUkmSWf6zf+17Lb9GJI05LpqYJ5J6zWh7MwZiOtxJFydOxaJwkEFnn/aZdjulZN8E5hL2mTyvei5jnciFoHZu1B7PJTy1LXcuB4nH0VXOC2Vt6a3tf5vyNMsvtfKf7MduoJ5SqGqCY3pf0fYLDlVHY7ITmU46GQJFCzB5g2WjxOzzsMQ1wLgjKaWyAMrXqxbcD16Nkw8z7sRKfc/pn2snkD7sZUTfaV+kOR97DQTa8d0GmbiaGBLaVnUTivAktMZ4AxzP1rJuMIPeeExE9Jw86atEjVGu13kHoC/U+1WkvUvR4VepIfnjkhnwo4INqmU6AzAN7HfkmTwyN52mVROtOl8E3Kk4jEqGOeQHYnfSUzPx2PxtH4147DtHJdD/C2dIWJnwJ6sSw1aHkyxT65tr1YDfSKLVs1+wGoI2B9B+t4x+Qn5atw6HSyp9aOKg826GMrOT1cFz9lpjb1BSZQ09ExJ/KNUfZQB7A9fL/c8h5xJ6fxK9FUujIjBPqlTEs8IQpWPtkE+Wqe8gv8NpPXUbvIgdJin0y1i1l8zcRwRQdjSZkQRVNDdlrqS2IV6JAMlMgPMi/AsuLtG0IPXZpmU2AmZo1YH1dZQrXnn/XEbeG5j4F6sAHQDKLNCFsEiOcD3NseKhh7sPdAo8w5ARRO3V4FI/zWswh4iYdWqj3Y/Q4qeYZ9gSjxI2qniDSSp+JyAA7rqqAj/gewCnl7vWg3O/vBkcGvhJfIWINEQsPt7yPxqfU7BG7RNWcIVmxRUQCtDG9QhBRDEJJbppv2e+CBFfSabNM9wn/QjQRO/Kgd4QiCHZrN1q04ZoTzbjPmRbjzm7v+a529wndykBZJskJgsreUDO16TuCMFRKdSLKBgVEoSygymk+I7slz74cKd6sJrciL/3OQ7Mpv8FOWiZxZdTq73p/gwUi0DE5m/X299az5oP30n3IQ82YIMYb/CCwr6en7WTKFGX867FNA+qAxx74YK2OrKcmLEpvfOMYm3QN9lsD6fW9fLF5Zw17ILJGy84mquLGJhu3bVym1sWZNf43gR/4FHpXM/j6kRzIYGrfu49MXS+hWf8U5KhRui8yGZ6jMJNdkhcv1x9uHkQ+/PvK7QREB7FQY=}"
+          scope: GLOBAL
+          username: "jenkins"
+      - string:
+          description: "jenkins token for connecting to slack bot"
+          id: "slack-token"
+          scope: GLOBAL
+          secret: "{AQAAABAAAAAw/0laWPKaApugxWsW6MPF+hMrL9f4KY13YkZRLS36+M+PJSmB06nDmvp2mwDZi5lH85UV2sktJLXqbJXBAhGVtg==}"
+jenkins:
+  system message: "This jenkins instance is the 1st i've configured using the casc plugin"
+  agentProtocols:
+  - "JNLP4-connect"
+  - "Ping"
+  crumbIssuer:
+    standard:
+      excludeClientIPFromCrumb: false
+  disableRememberMe: false
+  labelAtoms:
+  - name: "built-in"
+  markupFormatter: "plainText"
+  mode: NORMAL
+  myViewsTabBar: "standard"
+  numExecutors: 2
+  primaryView:
+    all:
+      name: "all"
+  projectNamingStrategy: "standard"
+  quietPeriod: 5
+  remotingSecurity:
+    enabled: true
+  scmCheckoutRetryCount: 0
+  slaveAgentPort: -1
+  updateCenter:
+    sites:
+    - id: "default"
+      url: "https://updates.jenkins.io/update-center.json"
+  views:
+  - all:
+      name: "all"
+  viewsTabBar: "standard"
+globalCredentialsConfiguration:
+  configuration:
+    providerFilter: "none"
+    typeFilter: "none"
+security:
+  apiToken:
+    creationOfLegacyTokenEnabled: false
+    tokenGenerationOnCreationEnabled: false
+    usageStatisticsEnabled: true
+  sSHD:
+    port: -1
+unclassified:
+  buildDiscarders:
+    configuredBuildDiscarders:
+    - "jobBuildDiscarder"
+  buildStepOperation:
+    enabled: false
+  email-ext:
+    adminRequiredForTemplateTesting: false
+    allowUnregisteredEnabled: false
+    charset: "UTF-8"
+    debugMode: false
+    defaultBody: |-
+      $PROJECT_NAME - Build # $BUILD_NUMBER - $BUILD_STATUS:
+
+      Check console output at $BUILD_URL to view the results.
+    defaultSubject: "$PROJECT_NAME - Build # $BUILD_NUMBER - $BUILD_STATUS!"
+    defaultTriggerIds:
+    - "hudson.plugins.emailext.plugins.trigger.FailureTrigger"
+    maxAttachmentSize: -1
+    maxAttachmentSizeMb: -1
+    precedenceBulk: false
+    watchingEnabled: false
+  fingerprints:
+    fingerprintCleanupDisabled: false
+    storage: "file"
+  gitHubConfiguration:
+    apiRateLimitChecker: ThrottleForNormalize
+  gitHubPluginConfig:
+    hookUrl: "http://3.15.185.185:8080/github-webhook/"
+  gitSCM:
+    addGitTagAction: false
+    allowSecondFetch: false
+    createAccountBasedOnEmail: false
+    disableGitToolChooser: false
+    hideCredentials: false
+    showEntireCommitSummaryInChanges: false
+    useExistingAccountWithSameEmail: false
+  junitTestResultStorage:
+    storage: "file"
+  location:
+    adminAddress: "address not configured yet <nobody@nowhere>"
+    url: "http://3.15.185.185:8080/"
+  mailer:
+    charset: "UTF-8"
+    useSsl: false
+    useTls: false
+  mavenModuleSet:
+    localRepository: "default"
+  pollSCM:
+    pollingThreadCount: 10
+  slackNotifier:
+    botUser: false
+    sendAsText: false
+  sonarGlobalConfiguration:
+    buildWrapperEnabled: false
+  timestamper:
+    allPipelines: false
+    elapsedTimeFormat: "'<b>'HH:mm:ss.S'</b> '"
+    systemTimeFormat: "'<b>'HH:mm:ss'</b> '"
+tool:
+  git:
+    installations:
+    - home: "git"
+      name: "Default"
+  maven:
+    installations:
+    - name: "maven"
+      properties:
+      - installSource:
+          installers:
+          - maven:
+              id: "3.8.5"
+  mavenGlobalConfig:
+    globalSettingsProvider: "standard"
+    settingsProvider: "standard"
+  sonarRunnerInstallation:
+    installations:
+    - name: "Sonarqube"
+      properties:
+      - installSource:
+          installers:
+          - sonarRunnerInstaller:
+              id: "4.7.0.2747"
